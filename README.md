@@ -1,2 +1,2 @@
 # vaxxport
-Open source COVID-19 vaccine passport that is all stored locally 
+hi i'm kinda new to this bear with me :)
